@@ -1,16 +1,16 @@
 [[MicrosoftMPI]]
 arch = "i686"
-git-tree-sha1 = "c694aef7249adb2e8d36cc476fa0e70b31ac7fc8"
+git-tree-sha1 = "85bd136890c5c059b825ee812c4cf8da950fc07e"
 os = "windows"
 
     [[MicrosoftMPI.download]]
-    sha256 = "ca2dcbca07ff6d5b4fc67fde7228aa156d510e8a2806cb8480c7f0ce741b8cec"
-    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.3+1/MicrosoftMPI.v10.1.3.i686-w64-mingw32.tar.gz"
+    sha256 = "ced6cc4deb71d3d44d0831897bd67cdb942391404901a5a7eee9945be235f86d"
+    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.3+2/MicrosoftMPI.v10.1.3.i686-w64-mingw32.tar.gz"
 [[MicrosoftMPI]]
 arch = "x86_64"
-git-tree-sha1 = "99c38097f031015a2b2979a463eff4d280880590"
+git-tree-sha1 = "4dec3ecde33187b4e2fcf816ec20e27d18c2c43e"
 os = "windows"
 
     [[MicrosoftMPI.download]]
-    sha256 = "c8785f873fe7d8ce9e537a00fecc3ff56f3c53e6368f6cb0d0e7c0b3df407d55"
-    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.3+1/MicrosoftMPI.v10.1.3.x86_64-w64-mingw32.tar.gz"
+    sha256 = "643f8c9689d5484bd184b6117eb1452534e7139556bfd38c4c1ce7903cd83ebb"
+    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.3+2/MicrosoftMPI.v10.1.3.x86_64-w64-mingw32.tar.gz"
