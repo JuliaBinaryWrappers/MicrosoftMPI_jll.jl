@@ -1,54 +1,54 @@
 [[MicrosoftMPI]]
 arch = "i686"
-git-tree-sha1 = "4beafe0066fa90d0aa43bb2f609743ffd1d3b795"
+git-tree-sha1 = "09f0b59007bb528c40c86a6e1748f07dbb1fd9fb"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[MicrosoftMPI.download]]
-    sha256 = "a7df1c88f0052afb616e4569040a9739cd0b54f6f4fe2c060933f3e2845abc21"
-    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.4+0/MicrosoftMPI.v10.1.4.i686-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "d3cf6b3dc0721245e19bdcd5670aaaf3cfade5401934db49a7645653a39ce8d4"
+    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.4+1/MicrosoftMPI.v10.1.4.i686-w64-mingw32-libgfortran3.tar.gz"
 [[MicrosoftMPI]]
 arch = "i686"
-git-tree-sha1 = "12634ac56d1fee99a045953ff2abc3c319cef6b1"
+git-tree-sha1 = "698cf311be8c7935dc49201b16a226bb738a1297"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[MicrosoftMPI.download]]
-    sha256 = "cb8e24d689c79dbdd16873a1b4b98e7325d1d0c27e6c412f4167b127a3f26e8a"
-    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.4+0/MicrosoftMPI.v10.1.4.i686-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "c83506976481106826b9fdecf442b898b3318bd486d4c10392d094965b3957f2"
+    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.4+1/MicrosoftMPI.v10.1.4.i686-w64-mingw32-libgfortran4.tar.gz"
 [[MicrosoftMPI]]
 arch = "i686"
-git-tree-sha1 = "8f9a46005101ab5da35f6e0fcf03dc193b82768a"
+git-tree-sha1 = "0e36bfc232d1a48c0c7f34eb9d86a5e23a180246"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[MicrosoftMPI.download]]
-    sha256 = "9ce3572d4251d1e5bc61b8778c044ffd7750144f48a078e6e7f82d1865c56b8b"
-    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.4+0/MicrosoftMPI.v10.1.4.i686-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "79b8662f1e631c6d1dbe6f9c3796dcc209de7833ea41b15d1f186acabad1635c"
+    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.4+1/MicrosoftMPI.v10.1.4.i686-w64-mingw32-libgfortran5.tar.gz"
 [[MicrosoftMPI]]
 arch = "x86_64"
-git-tree-sha1 = "aaaf8e4fe7c9510df417e366534fa2f84d6866f4"
+git-tree-sha1 = "063e92e909ef80fdb0c01da8cd38b2f117397020"
 libgfortran_version = "3.0.0"
 os = "windows"
 
     [[MicrosoftMPI.download]]
-    sha256 = "94c046d724738a11e02dfc091ed2ed3add1c6c0c4fe919f7df204c523bb42f2c"
-    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.4+0/MicrosoftMPI.v10.1.4.x86_64-w64-mingw32-libgfortran3.tar.gz"
+    sha256 = "6ec30873c011ec6ec9b91c0ec4394f3b3be088afc4dbcf234deb767d9ecff5f2"
+    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.4+1/MicrosoftMPI.v10.1.4.x86_64-w64-mingw32-libgfortran3.tar.gz"
 [[MicrosoftMPI]]
 arch = "x86_64"
-git-tree-sha1 = "7238fefe72e724fb32d067335ed26e6b080466a1"
+git-tree-sha1 = "a927cc7394e1e0f0d1b8e0911c31d774c0b88b0c"
 libgfortran_version = "4.0.0"
 os = "windows"
 
     [[MicrosoftMPI.download]]
-    sha256 = "1907c11eea7dc18b6d44b17b8fd1e80d9f77c23ef8f7ae889082dfb1b1838e62"
-    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.4+0/MicrosoftMPI.v10.1.4.x86_64-w64-mingw32-libgfortran4.tar.gz"
+    sha256 = "301a51fc9757921f43d28544a725a8dcfe97bd94e3930e253d653cce60c1abda"
+    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.4+1/MicrosoftMPI.v10.1.4.x86_64-w64-mingw32-libgfortran4.tar.gz"
 [[MicrosoftMPI]]
 arch = "x86_64"
-git-tree-sha1 = "454b73c5b1914776f73d2eae1b5c16c9a8bfc082"
+git-tree-sha1 = "4a195fc1f9aa324d571de9f2e6efdf6bb3562edf"
 libgfortran_version = "5.0.0"
 os = "windows"
 
     [[MicrosoftMPI.download]]
-    sha256 = "6b3cff1d2c53831f1f6c05a4ea9a866bc5c20101f49c51cae8c3de2dd23cbe17"
-    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.4+0/MicrosoftMPI.v10.1.4.x86_64-w64-mingw32-libgfortran5.tar.gz"
+    sha256 = "3af20d8dbc13df8dca85e9673c9c46079da3f3ad9114e4f5ab2d711404bea142"
+    url = "https://github.com/JuliaBinaryWrappers/MicrosoftMPI_jll.jl/releases/download/MicrosoftMPI-v10.1.4+1/MicrosoftMPI.v10.1.4.x86_64-w64-mingw32-libgfortran5.tar.gz"
